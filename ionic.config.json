@@ -1,0 +1,8 @@
+{
+  "name": "OneApollo",
+  "app_id": "d7b9bde3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
